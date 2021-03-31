@@ -1,2 +1,2 @@
 # CrickBet
-A Defi App for CrickBet
+Defi App for CrickBet
